@@ -8,6 +8,7 @@ public class HolaMundo {
 		
 		System.out.println("Hola Mundo");
 		System.out.println("Bienvenidos");
+		System.out.println("Bienvenido makina. Eres 1 campeon!!");
 		
 	}
 
